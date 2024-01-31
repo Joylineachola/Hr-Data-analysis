@@ -1,5 +1,6 @@
 # Hr-Data-analysis
  This project focuses on leveraging the power of Power BI to load, clean, and analyze HR data
+ ![Hr analysis dashboard.png]Hr%20analysis%20dashboard.png
 # Overview
 Welcome to the HR Data Analysis project repository! This project focuses on leveraging the power of Power BI to load, clean, and analyze HR data. The goal is to provide valuable insights into various HR metrics and create an interactive dashboard for easy visualization.
 
